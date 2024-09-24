@@ -26,5 +26,3 @@ I. Follow the steps to create venv from requirements
 ## Example
 ![image](https://github.com/user-attachments/assets/64ac7541-8899-4014-858f-779ed5054402)
 
-### Notebooks (.ipynb) should be accessible and run by pressing CTRL+ENTER or run on your IDE
-
